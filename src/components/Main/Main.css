@@ -343,7 +343,7 @@ body.dark-mode {
     background-color: #444444; /* Hover effect */
   }
   
-  .Text-Paraphrasing-Bot {
+  .Interactive-Dictionary {
     padding: 20px;
     text-align: center;
     border-radius: 10px;
@@ -353,7 +353,7 @@ body.dark-mode {
     margin: 20px auto;
   }
   
-   .Text-Paraphrasing-Bot h1 {
+   .Interactive-Dictionary h1 {
     font-family: 'Arial', sans-serif;
     font-size: 24px;
     color: #333;
@@ -362,13 +362,13 @@ body.dark-mode {
 
   /* Light mode styling */
   @media (prefers-color-scheme: light) {
-    .Text-Paraphrasing-Bot {
+    .Interactive-Dictionary {
       background-color: #FFFFFF; /* Violet color for light mode */
     }
   }
 
 @media (prefers-color-scheme: dark) {
-    .Text-Paraphrasing-Bot {
+    .Interactive-Dictionary {
       background-color: #FFFFFF; /* Violet color for light mode */
     }
   }
